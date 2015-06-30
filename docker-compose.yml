@@ -1,0 +1,4 @@
+sinopia:
+  build: .
+  ports:
+    - "4873:4873"
